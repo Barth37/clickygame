@@ -1,3 +1,5 @@
+This application uses react to create a basic game of memory.  Every click is a point as long as you dont click the same picture twice at which point the game is over.  Maximum score would be 12.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
