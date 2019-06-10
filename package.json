@@ -16,7 +16,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://Barth37.github.io/clickygame",
+  "homepage": "https://Barth37.github.io/clickygame",
   "eslintConfig": {
     "extends": "react-app"
   },
